@@ -1,0 +1,5 @@
+s1,s2,s3 = input().split()
+c1,c2 = input().split(',')
+sc = input()
+print(f"{'Sorvete de '+ s1 + ', ' + s2 + ' e ' + s3 + ' com coberturas de '+ c1 +' e '+ c2 +' e calda de '+ sc + '!'}")
+print("Não esqueça a banana!")
